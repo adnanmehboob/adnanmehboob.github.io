@@ -2,13 +2,18 @@
 <html class="html">
  <head>
 
-  <meta http-equiv="Content-type" content="text/html;charset=UTF-8"/>
+  <meta http-equiv="Content-Type" content="text/html; charset=utf-8"/>
   <meta name="generator" content="7.3.5.244"/>
   <title>HAALCYON | WEB DESIGN AND DEVELOPMENT</title>
   <!-- CSS -->
   <link rel="stylesheet" type="text/css" href="css/site_global.css?3983832653"/>
   <link rel="stylesheet" type="text/css" href="css/master_a-master.css?4193502948"/>
   <link rel="stylesheet" type="text/css" href="css/index.css?3799760760" id="pagesheet"/>
+  <style type="text/css">
+  body {
+	background-color: #000;
+}
+  </style>
   <!-- Other scripts -->
   <script type="text/javascript">
    document.documentElement.className += ' js';
